@@ -4,6 +4,7 @@ A slightly customized PCB keyboard with a case.
 
 ![SmolPad Cad](assets/smolpad-cad.png)
 ![SmolPad PCB](assets/smolpad-pcb.png)
+![SmolPad Schematic](assets/smolpad-sch.jpg)
 
 > Bottom lighting design is inspired by [samdev-7/squarepad](https://github.com/samdev-7/squarepad)
 >
