@@ -5,8 +5,9 @@ A slightly customized PCB keyboard with a case.
 ![SmolPad Cad](assets/smolpad-cad.png)
 ![SmolPad PCB](assets/smolpad-pcb.png)
 
-
-Bottom lighting design is inspired by [samdev-7/squarepad](https://github.com/samdev-7/squarepad)
+> Bottom lighting design is inspired by [samdev-7/squarepad](https://github.com/samdev-7/squarepad)
+>
+> Uses external 3D component, https://makerworld.com/en/models/628840-ec11-encoder-knob#profileId-593261.
 
 ## Bill of material
 
