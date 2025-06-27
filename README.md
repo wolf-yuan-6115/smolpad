@@ -18,5 +18,5 @@ A slightly customized PCB keyboard with a case.
 | SK6812 mini-e          | 12   |
 | MX style switches      | 8    |
 | EC11E Rotatory encoder | 1    |
-| 0.91' OLED screen      | 1    |
+| 0.91" OLED screen      | 1    |
 | 1N4148 Diode           | 9    |
